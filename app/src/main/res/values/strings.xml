@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerTest</string>
+    <string name="add_get_school">add/get school</string>
+</resources>
